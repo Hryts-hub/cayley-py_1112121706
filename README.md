@@ -16,11 +16,7 @@ The project focuses on understanding how different training schedules and learni
 
 ### 1. Analysis of the results from the original paper
 
-Analyze the results table from the project paper:
-
-[Overleaf project](https://www.overleaf.com/project/69fdf2dcddacfe8cdc52df9d?utm_source=chatgpt.com)
-
-The complete table is available in the same project.
+Analyze the results table from the project paper.
 
 The original Kaggle implementation is available here:
 
